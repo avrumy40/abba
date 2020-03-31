@@ -1,0 +1,39 @@
+
+body {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+
+}
+
+
+.main {
+	display:flex;
+	flex-direction: column;
+	flex:1;
+	justify-content: center;
+	margin: auto;
+	  }
+
+.display-4 {
+
+font-family: 'Sen', sans-serif;
+font-size: 4rem;
+
+}
+
+.main h2 {
+	font-family: 'Baloo Da 2', cursive;
+	margin: 1rem;
+	margin-bottom: 4.5rem;
+
+}
+
+.main .btn {
+	border-radius: 8px;
+	width: 24rem;
+	margin-left: 10px;
+}
+ img {
+ 	padding: 10px;
+ }
